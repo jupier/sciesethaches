@@ -20,7 +20,7 @@ export default function Layout({ children }: LayoutProps) {
       <nav className="navbar navbar-expand-lg sticky-top p-3 nav-background shadow">
         <div className="container">
           <Link className="navbar-brand text-white fw-semibold" href="/">
-            🪚 Scies et Haches 🪓 🚧 site en construction 🚧
+            🪚 Scies et Haches 🪓
           </Link>
           <div className="collapse navbar-collapse justify-content-end">
             <ul className="navbar-nav">
